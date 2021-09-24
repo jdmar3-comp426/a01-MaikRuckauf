@@ -1,12 +1,12 @@
 body {
-
+    background-color: lightblue;
 }
 h1 {
-
+    font-family: papyrus;
 }
 p {
-
+    font-family: helvetica;
 }
 pre {
-    font-family: papyrus;
+    font-family: monaco;
 }
