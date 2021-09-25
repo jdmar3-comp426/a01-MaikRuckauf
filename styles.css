@@ -12,7 +12,7 @@ p {
     font-size: 10px;
 }
 #para2 {
-
+    border-style: groove;
 }
 .link {
     text-decoration: underline;
