@@ -5,8 +5,8 @@ h1 {
 p {
     font-family: helvetica;
 }
-pre {
-    font-family: monaco;
+#head1 {
+    text-align: center;
 }
 a:link {
     color:blue;
