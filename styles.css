@@ -8,6 +8,12 @@ p {
 pre {
     font-family: monaco;
 }
+a:link {
+    color:blue;
+}
+a:visited {
+    color:green;
+}
 a:hover {
     color:red;
 }
