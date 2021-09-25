@@ -8,3 +8,6 @@ p {
 pre {
     font-family: monaco;
 }
+a:hover {
+    color:red;
+}
