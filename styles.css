@@ -8,6 +8,13 @@ p {
 #head1 {
     text-align: center;
 }
+#para2 {
+    
+}
+.link {
+    font-size: 16px;
+    text-decoration: underline;
+}
 a:link {
     color:blue;
 }
