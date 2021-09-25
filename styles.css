@@ -11,11 +11,11 @@ p {
 #source {
     font-size: 10px;
 }
-#para2 {
-    border-style: groove;
+#para2{
+    border-style: 1px solid black groove;
 }
 .link {
-    text-decoration: underline;
+    font-weight: bold;
 }
 a:link {
     color:blue;
