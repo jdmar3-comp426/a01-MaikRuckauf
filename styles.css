@@ -20,6 +20,12 @@ p {
 #titleGriffin {
     background-color: #ffcc99;
 }
+.bigpic {
+    width:200px;height:250px;
+}
+.littlepic {
+    width:300px;height:250px;
+}
 .para2{
     font-size: 14px;
 }
