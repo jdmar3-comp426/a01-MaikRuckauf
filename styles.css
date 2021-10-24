@@ -23,6 +23,12 @@ p {
 #titleGriffin {
     background-color: #ffcc99;
 }
+#title {
+    text-emphasis: black;
+}
+title {
+    text-emphasis: grey;
+}
 .bigpic {
     width:200px;height:250px;
 }
