@@ -23,12 +23,6 @@ p {
 #titleGriffin {
     background-color: #ffcc99;
 }
-#a {
-    text-emphasis: purple;
-}
-title {
-    text-emphasis: green;
-}
 .bigpic {
     width:200px;height:250px;
 }
@@ -49,4 +43,10 @@ a:visited {
 }
 a:hover {
     color:red;
+}
+div#a title {
+    text-emphasis: purple;
+}
+div title {
+    text-emphasis: green;
 }
