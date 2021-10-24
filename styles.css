@@ -44,9 +44,9 @@ a:visited {
 a:hover {
     color:red;
 }
-div#a title {
+title#a  {
     text-emphasis: purple;
 }
-div title {
+title {
     text-emphasis: green;
 }
