@@ -45,11 +45,11 @@ a:hover {
     color:red;
 }
 div#a span  {
-    text-emphasis: purple;
+    color: purple;
 }
 div span {
-    text-emphasis: green;
+    color: green;
 }
 span {
-    text-emphasis: red;
+    color: red;
 }
