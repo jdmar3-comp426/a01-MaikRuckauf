@@ -11,7 +11,16 @@ p {
 #source {
     font-size: 10px;
 }
-#para2{
+#titleKraken {
+    background-color: #0af0f8;
+}
+#titleCyclops {
+    background-color: #ccff99;
+}
+#titleGriffin {
+    background-color: #ffcc99;
+}
+.para2{
     font-size: 14px;
 }
 .link {
